@@ -1,12 +1,27 @@
-body
-{
-	padding-left: 200px;
-	padding-right: 200px;
-	padding-top: 20px;
-	padding-bottom: 10px;
 
+figure
+{
+	padding-top: 20px;
+	padding-left: 350px;
 }
 
+img 
+{
+	border-radius: 70px;
+}
+
+.container
+{
+	width: 750px;
+	padding-right: 15px;
+    padding-left: 15px;
+}
+
+#perfil
+{
+	padding-right: 30px;
+    padding-left: 30px;
+}
 .cabecera
 {
 	font-family: Geogia, serif;
@@ -22,17 +37,11 @@ body
 {
 	font-family: cursive, sans-serif;
 	background-color: #eeeeee;
-	padding-left: 50px;
-}
-
-figure
-{
-	padding-top: 20px;
-	padding-left: 250px;
+	padding-left: 100px;
+	padding-right: 10px;
 }
 
 .interes
 {
-	padding-top: 50px;
 	padding-bottom: 100px;
 }
