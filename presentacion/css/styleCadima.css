@@ -1,0 +1,29 @@
+header{
+	background: #2c3e50;
+	color: #fff;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	margin: 20px auto;
+}
+
+.colorPanel{	
+	background: rgba(158, 158, 158, 0.4);
+	color: #fff;
+}
+
+h3{
+	color: green;
+}
+
+p{
+	color: #777;
+	font-size: 18px;
+}
+
+.nameStatic{
+	margin: 20px 30px;
+	font-size: 20px;	
+}
