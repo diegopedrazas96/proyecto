@@ -1,0 +1,46 @@
+figure
+{
+	padding-top: 20px;
+	padding-left: 350px;
+}
+
+img 
+{
+	border-radius: 70px;
+}
+
+.container
+{
+	width: 750px;
+	padding-right: 15px;
+    padding-left: 15px;
+}
+
+#perfil
+{
+	padding-right: 30px;
+    padding-left: 30px;
+}
+.cabecera
+{
+	font-family: Geogia, serif;
+	background-color: #bdbdbd;
+}
+
+.cabecera-titulo
+{
+	padding: 15px;
+}
+
+.informacion
+{
+	font-family: cursive, sans-serif;
+	background-color: #eeeeee;
+	padding-left: 100px;
+	padding-right: 10px;
+}
+
+.interes
+{
+	padding-bottom: 100px;
+}
